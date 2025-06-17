@@ -16,6 +16,6 @@ public class IncomeTaxCalc {
         }
 
         System.out.println("Your tax is: " + tax);
-
+        sc.close();
     }
 }
